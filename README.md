@@ -22,6 +22,8 @@ A Machine Learning project that predicts house prices using regression models tr
 ```
 House-price-predictor/
 │
+Code/
+│   
 ├── main.py                  # Train and evaluate model
 ├── data_loader.py          # Load dataset
 ├── preprocess.py           # Preprocessing and scaling
@@ -178,7 +180,6 @@ pandas
 scikit-learn
 joblib
 matplotlib
-seaborn
 ```
 
 Install using:
